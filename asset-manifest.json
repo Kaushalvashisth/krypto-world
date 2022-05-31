@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/krypto-world/static/css/main.ab2c39bb.css",
-    "main.js": "/krypto-world/static/js/main.c8d66449.js",
-    "static/media/cryptocurrency.png": "/krypto-world/static/media/cryptocurrency.1548aced3f0605895bac.png",
-    "index.html": "/krypto-world/index.html",
-    "main.ab2c39bb.css.map": "/krypto-world/static/css/main.ab2c39bb.css.map",
-    "main.c8d66449.js.map": "/krypto-world/static/js/main.c8d66449.js.map"
+    "main.css": "/static/css/main.ab2c39bb.css",
+    "main.js": "/static/js/main.a2e2b118.js",
+    "static/media/cryptocurrency.png": "/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/index.html",
+    "main.ab2c39bb.css.map": "/static/css/main.ab2c39bb.css.map",
+    "main.a2e2b118.js.map": "/static/js/main.a2e2b118.js.map"
   },
   "entrypoints": [
     "static/css/main.ab2c39bb.css",
-    "static/js/main.c8d66449.js"
+    "static/js/main.a2e2b118.js"
   ]
 }
